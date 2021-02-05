@@ -74,7 +74,7 @@ func TestDivision(t *testing.T){
 
 	var  funcReturn int
 
-	param1 := 15
+	param1 := 16
 	param2 := 7
 
 	funcReturn = maDivision(param1, param2)
